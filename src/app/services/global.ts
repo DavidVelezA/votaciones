@@ -1,4 +1,4 @@
 export var global = {
-    url: 'http://api-laravel-votaciones.com.devel/api/'
-    
+    url: 'https://cryptic-savannah-79765.herokuapp.com/api/'
+       
 }
